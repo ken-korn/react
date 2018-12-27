@@ -1,7 +1,7 @@
 <div align="center">
     <a href="https://reactphp.org"><img src="https://rawgit.com/reactphp/branding/master/reactphp-logo.svg" alt="ReactPHP Logo" width="160"></a>
 </div>
-    
+
 <br>
 
 <div align="center">
