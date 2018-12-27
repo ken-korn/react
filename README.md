@@ -3,7 +3,7 @@
 </div>
     
 <br>
-    
+
 <div align="center">
     <strong>Event-driven, non-blocking I/O with PHP.</strong>
 </div>
